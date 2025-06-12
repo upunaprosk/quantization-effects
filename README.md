@@ -1,4 +1,4 @@
-# Awesome Quantization Side Effects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Quantization Side Effects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Quantization improves efficiency but may compromise trustworthiness and model fairness. 
 This repo contains a curated list of papers and resources focused on the undesired effects of model quantization, including its impact on:
